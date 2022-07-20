@@ -15,6 +15,7 @@
      }, "300");
  });
  // ------------------------------------regular-slider-slick-------------------
+ // ------------------------------------regular-slider-slick-------------------
  $(".regular").slick({
      dots: false,
      infinite: true,
